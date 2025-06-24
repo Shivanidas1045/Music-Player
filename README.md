@@ -27,7 +27,8 @@ Welcome to **Dhun**, a responsive music player web application that brings your 
 - **Lucide React** – Icon library for modern UI
 - **React Router DOM** – Navigation and routing
 
-  ## Live Link of the website( Music Player):- https://stupendous-marzipan-4f644a.netlify.app/
+## 🔗 Live Demo (Music Player)
+[Click here to view the live website](https://stupendous-marzipan-4f644a.netlify.app)
 
 ## 📷 Added few screenshots of the website:-
 
