@@ -30,10 +30,12 @@ Welcome to **Dhun**, a responsive music player web application that brings your 
 ## 🔗 Live Demo (Music Player)
 [Click here to view the live website](https://stupendous-marzipan-4f644a.netlify.app)
 
-## 🎥 Project Presentation
+## 🎥 Project Demo
 
 To understand how this website works, you can watch the presentation video here:  
-[![Watch the video](https://drive.google.com/file/d/1YOVD0a_78O9c-udCooGxo4FTPaNBU7kR/view)
+
+👉 [Click here to watch the demo video](https://drive.google.com/file/d/1YOVD0a_78O9c-udCooGxo4FTPaNBU7kR/view)
+
 
 
 ## 📷 Added few screenshots of the website:-
